@@ -14,7 +14,7 @@ gsettings set org.mate.interface icon-theme hackthebox
 
 #Change Background picture
 
-gsettings set org.mate.background picture-filename /usr/share/backgrounds/hackthebox-alt.jpg
+gsettings set org.mate.desktop.background picture-filename /usr/share/backgrounds/hackthebox-alt.jpg
 
 #/usr/share/backgrounds/hackthebox.jpg  
 #/usr/share/backgrounds/hackthebox-alt.jpg
