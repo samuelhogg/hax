@@ -1,7 +1,8 @@
 #!/bin/sh
 
+##### wget https://github.com/samuelhogg/hax/raw/main/parrothtb.sh -P ~/Downloads/
 ##### chmod +x ~/Downloads/parrothtb.sh
-##### wget https://github.com/samuelhogg/hax/raw/main/parrothtb.sh
+##### bash ~/Downloads/parrothtb.sh
 
 ##### Settings #####
 
