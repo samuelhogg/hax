@@ -4,6 +4,8 @@
 ##### chmod +x ~/Downloads/parrothtb.sh
 ##### bash ~/Downloads/parrothtb.sh
 
+git clone https://www.github.com/samuelhogg/hax.git ~/Downloads/
+
 ##### Settings #####
 
 setxkbmap gb    #Change to UK Keyboard
@@ -16,7 +18,8 @@ gsettings set org.mate.background picture-filename /usr/share/backgrounds/hackth
 
 ##### Install #####
 
-sudo wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb -O ~/Downloads/chrome.deb && sudo apt install -y ~/Downloads/chrome.deb
+sudo apt install chromium
+#sudo wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb -O ~/Downloads/chrome.deb && sudo apt install -y ~/Downloads/chrome.deb
 
 ##### Alt Backgrounds #####
 
