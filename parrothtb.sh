@@ -21,6 +21,8 @@ sudo apt install chromium
 ##### Powershell #####
 
 https://www.microsoft.com/powershell
+PowerShell -
+mate-terminal -e "pwsh" -t "PowerShell" --profile="PowerShell" --working-directory=~
 
 ##### Alt Backgrounds #####
 
