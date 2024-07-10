@@ -32,3 +32,8 @@ mate-terminal -e "pwsh" -t "PowerShell" --profile="PowerShell" --working-directo
 #/usr/share/backgrounds/htb.jpg
 #/usr/share/backgrounds/htb-alt.jpg
 #/usr/share/backgrounds/macaw-vaporwave.jpg
+
+##### Notes #####
+
+/etc/htb
+/usr/share/themes/Hack-The-Box
