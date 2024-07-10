@@ -9,6 +9,7 @@ git clone https://www.github.com/samuelhogg/hax.git ~/Downloads/
 ##### Settings #####
 
 setxkbmap gb    #Change to UK Keyboard
+gsettings set org.mate.peripherals-keyboard-xkb.kbd layouts "['gb', 'ru']"  #
 gsettings set org.mate.Marco.general button-layout ':minimize,maximize,close'   #Change Toolbar Buttons to right hand side
 gsettings set org.mate.interface icon-theme hackthebox #Change Icon Theme to hackthebox 
 gsettings set org.mate.background picture-filename /usr/share/backgrounds/hackthebox-alt.jpg    #Change Background picture
