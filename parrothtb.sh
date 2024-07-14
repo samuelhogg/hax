@@ -18,6 +18,7 @@ gsettings set org.mate.background picture-filename /usr/share/backgrounds/hackth
 
 sudo apt install chromium
 #sudo wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb -O ~/Downloads/chrome.deb && sudo apt install -y ~/Downloads/chrome.deb
+#sudo wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb -O ~/Downloads/chrome.deb && sudo dpkg -i ~/Downloads/chrome.deb
 
 ##### Powershell #####
 
