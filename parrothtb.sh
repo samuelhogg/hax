@@ -20,6 +20,8 @@ sudo apt install chromium
 #sudo wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb -O ~/Downloads/chrome.deb && sudo apt install -y ~/Downloads/chrome.deb
 #sudo wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb -O ~/Downloads/chrome.deb && sudo dpkg -i ~/Downloads/chrome.deb
 
+curl -L "https://code.visualstudio.com/sha/download?build=stable&os=linux-deb-x64" -o ~/Downloads/vscode.deb && sudo dpkg -i ~/Downloads/vscode.deb
+
 ##### Powershell #####
 
 https://www.microsoft.com/powershell
