@@ -1,0 +1,4 @@
+https://github.com/cake-tech/cake_wallet/
+https://github.com/ProtonVPN/android-app/
+https://github.com/brave/brave-browser/
+https://github.com/bitwarden/android/
