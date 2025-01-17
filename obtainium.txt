@@ -6,5 +6,7 @@ https://github.com/cake-tech/cake_wallet/
 https://github.com/signalapp/Signal-Android
 https://github.com/bitwarden/android/
 
+https://github.com/topjohnwu/Magisk/
+
 # https://f-droid.org/F-Droid.apk
 # https://store.nethunter.com/repo/
