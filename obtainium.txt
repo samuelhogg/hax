@@ -5,8 +5,10 @@ https://github.com/brave/brave-browser/
 https://github.com/cake-tech/cake_wallet/
 https://github.com/signalapp/Signal-Android
 https://github.com/bitwarden/android/
+https://github.com/videolan/vlc-android/
 
 https://github.com/topjohnwu/Magisk/
+https://github.com/Teamwin/android_bootable_recovery/
 
 # https://f-droid.org/F-Droid.apk
 # https://store.nethunter.com/repo/
