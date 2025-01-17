@@ -1,14 +1,13 @@
-https://github.com/Droid-ify/client
 https://github.com/ImranR98/Obtainium/
 https://github.com/ProtonVPN/android-app/
+https://github.com/ProtonMail/android-mail/
 https://github.com/brave/brave-browser/
 https://github.com/cake-tech/cake_wallet/
-https://github.com/signalapp/Signal-Android
-https://github.com/bitwarden/android/
+https://github.com/signalapp/Signal-Android/
 https://github.com/videolan/vlc-android/
-
+https://github.com/bitwarden/android/
+https://github.com/zhanghai/MaterialFiles/
 https://github.com/topjohnwu/Magisk/
-https://github.com/Teamwin/android_bootable_recovery/
 
 # https://f-droid.org/F-Droid.apk
 # https://store.nethunter.com/repo/
