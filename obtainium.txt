@@ -9,6 +9,7 @@ https://github.com/videolan/vlc-android/releases
 https://github.com/TeamNewPipe/NewPipe/releases
 https://github.com/bitwarden/android/releases
 https://github.com/zhanghai/MaterialFiles/releases
+https://github.com/proninyaroslav/libretorrent/releases
 https://github.com/topjohnwu/Magisk/releases
 
 https://f-droid.org/F-Droid.apk
