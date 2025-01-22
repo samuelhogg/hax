@@ -10,6 +10,11 @@ git clone https://www.github.com/samuelhogg/hax.git ~/Downloads/
 
 ##### Settings #####
 
+sudo apt install xfce4
+sudo apt install xfce4-goodies
+apt show xfce4
+apt depends xfce4
+
 setxkbmap gb    #Change to UK Keyboard
 gsettings set org.mate.peripherals-keyboard-xkb.kbd layouts "['gb', 'ru']"  #
 gsettings set org.mate.Marco.general button-layout ':minimize,maximize,close'   #Change Toolbar Buttons to right hand side
