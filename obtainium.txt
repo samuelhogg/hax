@@ -14,6 +14,8 @@ https://github.com/zhanghai/MaterialFiles/releases
 https://github.com/proninyaroslav/libretorrent/releases
 https://github.com/topjohnwu/Magisk/releases
 
+https://telegram.org/dl/android/apk/Telegram.apk
+
 https://f-droid.org/F-Droid.apk
 https://store.nethunter.com/repo/
 
