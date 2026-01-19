@@ -1,6 +1,7 @@
 https://github.com/ImranR98/Obtainium/releases
 https://github.com/ProtonVPN/android-app/releases
 https://github.com/ProtonMail/android-mail/releases
+https://github.com/standardnotes/app/releases
 https://github.com/brave/brave-browser/releases
 https://github.com/cake-tech/cake_wallet/releases
 https://github.com/signalapp/Signal-Android/releases
