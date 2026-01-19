@@ -8,6 +8,7 @@ https://github.com/signalapp/Signal-Android/releases
 https://github.com/mollyim/mollyim-android/releases
 https://github.com/bitwarden/android/releases
 https://github.com/element-hq/element-android/releases
+https://github.com/krille-chan/fluffychat/releases
 https://github.com/videolan/vlc-android/releases
 https://github.com/termux/termux-app/releases
 https://github.com/guardianproject/orbot-android/releases
