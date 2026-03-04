@@ -14,7 +14,6 @@ https://github.com/termux/termux-app/releases
 https://github.com/guardianproject/orbot-android/releases
 
 https://github.com/TeamNewPipe/NewPipe/releases
-https://github.com/zhanghai/MaterialFiles/releases
 https://github.com/proninyaroslav/libretorrent/releases
 https://github.com/topjohnwu/Magisk/releases
 
