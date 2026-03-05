@@ -16,9 +16,10 @@ https://github.com/guardianproject/orbot-android/releases
 https://github.com/TeamNewPipe/NewPipe/releases
 https://github.com/proninyaroslav/libretorrent/releases
 https://github.com/topjohnwu/Magisk/releases
+https://codeberg.org/comaps/comaps
 
 https://telegram.org/dl/android/apk/Telegram.apk
-https://www.comaps.app/download/
+
 
 https://cdn-st1.rtr-vesti.ru/smotrimru/apk/smotrim-android-mobile.apk
 
