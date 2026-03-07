@@ -4,6 +4,7 @@ https://github.com/ProtonMail/android-mail/releases
 https://github.com/standardnotes/app/releases
 https://github.com/brave/brave-browser/releases
 https://github.com/cake-tech/cake_wallet/releases
+https://github.com/tangem/tangem-app-android
 https://github.com/signalapp/Signal-Android/releases
 https://github.com/mollyim/mollyim-android/releases
 https://github.com/bitwarden/android/releases
