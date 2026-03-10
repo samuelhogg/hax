@@ -23,6 +23,7 @@ https://www.iptvsmarters.com/iptv-smarters-5.0.apk
 https://apks.freeletics.com/freeletics.apk
 https://accrescent.app/accrescent.apk
 https://f-droid.org/F-Droid.apk
+
 https://f-droid.org/repo/
 https://store.nethunter.com/repo/
 https://guardianproject.info/fdroid/repo/
