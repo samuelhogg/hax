@@ -27,6 +27,8 @@ https://telegram.org/dl/android/apk/Telegram.apk
 https://www.iptvsmarters.com/iptv-smarters-5.0.apk
 https://apks.freeletics.com/freeletics.apk
 
+https://get.videolan.org/vlc-android/
+
 https://cdn-st1.rtr-vesti.ru/smotrimru/apk/smotrim-android-mobile.apk
 
 https://f-droid.org/F-Droid.apk
