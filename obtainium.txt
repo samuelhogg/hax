@@ -25,6 +25,7 @@ https://apks.freeletics.com/freeletics.apk
 
 https://get.videolan.org/vlc-android/
 
+https://accrescent.app/accrescent.apk
 https://f-droid.org/F-Droid.apk
 https://f-droid.org/repo/
 https://store.nethunter.com/repo/
