@@ -18,6 +18,8 @@ https://github.com/termux/termux-app/releases
 https://codeberg.org/comaps/comaps
 https://github.com/TeamNewPipe/NewPipe/releases
 https://github.com/topjohnwu/Magisk/releases
+https://github.com/lichess-org/mobile/
+https://github.com/nextcloud/android
 https://telegram.org/dl/android/apk/Telegram.apk
 https://www.iptvsmarters.com/iptv-smarters-5.0.apk
 https://apks.freeletics.com/freeletics.apk
