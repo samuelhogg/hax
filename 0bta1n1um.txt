@@ -20,6 +20,7 @@ https://github.com/TeamNewPipe/NewPipe/releases
 https://github.com/topjohnwu/Magisk/releases
 https://github.com/lichess-org/mobile/
 https://github.com/nextcloud/android
+https://github.com/readest/readest
 https://telegram.org/dl/android/apk/Telegram.apk
 https://www.iptvsmarters.com/iptv-smarters-5.0.apk
 https://apks.freeletics.com/freeletics.apk
