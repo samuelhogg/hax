@@ -30,3 +30,5 @@ https://f-droid.org/F-Droid.apk
 https://f-droid.org/repo/
 https://store.nethunter.com/repo/
 https://guardianproject.info/fdroid/repo/
+
+https://github.com/jellyfin/jellyfin-android
