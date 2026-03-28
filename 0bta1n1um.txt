@@ -7,6 +7,7 @@ https://github.com/brave/brave-browser/releases
 https://github.com/FossifyOrg/File-Manager
 https://github.com/FossifyOrg/Notes
 https://github.com/FossifyOrg/Flashlight
+https://github.com/obsidianmd/obsidian-releases
 https://github.com/cake-tech/cake_wallet/releases
 https://github.com/tangem/tangem-app-android
 https://github.com/signalapp/Signal-Android/releases
