@@ -34,3 +34,5 @@ https://store.nethunter.com/repo/
 https://guardianproject.info/fdroid/repo/
 
 https://github.com/jellyfin/jellyfin-android
+
+https://f-droid.org/packages/eu.depau.etchdroid/
