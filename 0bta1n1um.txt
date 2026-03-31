@@ -30,6 +30,7 @@ https://accrescent.app/accrescent.apk
 https://f-droid.org/F-Droid.apk
 
 https://f-droid.org/repo/
+https://f-droid.org/packages/eu.depau.etchdroid/
 https://store.nethunter.com/repo/
 https://guardianproject.info/fdroid/repo/
 
