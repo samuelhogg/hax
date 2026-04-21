@@ -21,7 +21,8 @@ https://github.com/TeamNewPipe/NewPipe/releases
 https://github.com/topjohnwu/Magisk/releases
 https://github.com/lichess-org/mobile/
 https://github.com/nextcloud/android
-https://github.com/readest/readest
+https://github.com/readest/readest/
+https://github.com/koreader/koreader/
 https://github.com/super-productivity/super-productivity
 https://github.com/proninyaroslav/libretorrent
 https://telegram.org/dl/android/apk/Telegram.apk
